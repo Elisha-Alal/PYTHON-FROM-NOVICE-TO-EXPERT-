@@ -17,6 +17,8 @@ and more popular for
 
 ## ABOUT COURSE
 
+*Support Course Companion source*: You can definitely find the support course companion -> [Open the Link Here!](https://www.kaggle.com/datasets/shree0910/ai-and-data-science-job-market-dataset-20202026)
+
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it
 very attractive for Rapid Application Development, as well as for use
 as a scripting or glue language to connect existing components together. Python’s simple, easy to learn syntax emphasizes readability
@@ -27,7 +29,8 @@ major platforms and can be freely distributed.
 
 ## WHY PYTHON AND BRIEF HISTORY
 
-Python is characterized by many features. Let’s examine a few of them
+1. **Python is characterized by many features.**
+   - Let’s examine a few of them
 here: https://wiki.python.org/moin/TkInter
 
 
